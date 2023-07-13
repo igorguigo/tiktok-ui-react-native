@@ -1,7 +1,7 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
-import { Home } from '../pages/search'
-import { Search } from '../pages/home'
+import { Search } from '../pages/search'
+import { Home } from '../pages/home'
 import { Inbox } from '../pages/inbox'
 import { New } from '../pages/new'
 import { Profile } from '../pages/profile'

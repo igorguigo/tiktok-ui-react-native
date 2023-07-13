@@ -1,6 +1,6 @@
 import { View, StyleSheet, Text } from "react-native";
 
-export function Home(){
+export function Search(){
     return(
         <View styles={styles.container}>
             <Text>Página home</Text>
